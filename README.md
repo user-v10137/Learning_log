@@ -56,7 +56,7 @@ This is a log of my recent IT and Cybersecurity learning and development achieve
 |01-Jan-22|TryHackMe|Linux Fundamentals Part 1|Room|🟢|
 |01-Jan-22|TryHackMe|Linux Fundamentals Part 2|Room|🟢|
 |01-Jan-22|TryHackMe|Linux Fundamental Part 3|Room|🟢|
-|01-Jan-22|TryHackMe|Learning Ccyber Security|Room|🟢|
+|01-Jan-22|TryHackMe|Learning Cyber Security|Room|🟢|
 |01-Jan-22|TryHackMe|Windows Fundamentals 1|Room|🟢|
 |01-Jan-22|TryHackMe|Windows Fundamentals 2|Room|🟢|
 |01-Jan-22|TryHackMe|Extending Your Network|Room|🟢|
