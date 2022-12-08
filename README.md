@@ -11,6 +11,9 @@ This is a log of my recent IT and Cybersecurity learning and development achieve
 |:----|:----|:----|:----|:----|
 |In Progress|Cybrary|Fundamentals of Vulnerability Management| |🟠|
 |In Progress|Hack The Box Academy|Pentester Pathway| |🟠|
+|08-Dec-22|MITRE Engenuity|ATT&CK® Fundamentals Badge|🏅|🟢|
+|08-Dec-22|INFOSEC Learning|Business Continuity - Disaster Recovery Lab|🏆|🟢|
+|08-Dec-22|TryHackMe|[Day 7] CyberChef Maldocs roasting on an open fire|Module|🟢|
 |07-Dec-22|TryHackMe|[Day 6] Email Analysis It's beginning to look a lot like phishing|Module|🟢|
 |07-Dec-22|TryHackMe|Open CTI|Room|🟢|
 |07-Dec-22|Cybrary|MITRE ATT&CK Defender™ (MAD) ATT&CK® Fundamentals Badge Training|🏆|🟢|
