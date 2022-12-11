@@ -11,6 +11,13 @@ This is a log of my recent IT and Cybersecurity learning and development achieve
 |:----|:----|:----|:----|:----|
 |In Progress|Cybrary|Fundamentals of Vulnerability Management| |🟠|
 |In Progress|Hack The Box Academy|Pentester Pathway| |🟠|
+|11-Dec-22|Cybrary/CYBRScore|Vulnerability Identification and Remediation|🏆|🟢|
+|11-Dec-22|Cybrary/CYBRScore|Vulnerability Scanner Set-up and Configuration, Pt. 2|🏆|🟢|
+|11-Dec-22|Cybrary/CYBRScore|Vulnerability Scanner Set-up and Configuration|🏆|🟢|
+|11-Dec-22|TryHackMe|[Day 10] Hack a game You're a mean one, Mr. Yeti|Module|🟢|
+|10-Dec-22|TryHackMe|MISP|Module|🟢|
+|10-Dec-22|TryHackMe|[Day 9] Pivoting Dock the halls|Module|🟢|
+|09-Dec-22|TryHackMe|[Day 8] Smart Contracts Last Christmas I gave you my ETH|Module|🟢|
 |08-Dec-22|MITRE Engenuity|ATT&CK® Fundamentals Badge|🏅|🟢|
 |08-Dec-22|INFOSEC Learning|Business Continuity - Disaster Recovery Lab|🏆|🟢|
 |08-Dec-22|TryHackMe|[Day 7] CyberChef Maldocs roasting on an open fire|Module|🟢|
