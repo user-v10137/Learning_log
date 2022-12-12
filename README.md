@@ -9,8 +9,15 @@ This is a log of my recent IT and Cybersecurity learning and development achieve
 
 |Date|Provider|Course|Type|Status|
 |:----|:----|:----|:----|:----|
-|In Progress|Cybrary|Fundamentals of Vulnerability Management| |🟠|
 |In Progress|Hack The Box Academy|Pentester Pathway| |🟠|
+|12-Dec-22|Cybrary/ INFOSEC Learning|Patching, Securing Systems, and Configuring Anti-Virus Lab|🏆|🟢|
+|12-Dec-22|TryHackMe|[Day 11] Memory Forensics Not all gifts are nice|Module|🟢|
+|12-Dec-22|Cybrary|Fundamentals of Vulnerability Management|🏆|🟢|
+|12-Dec-22|Cybrary|Skill Assessment - Vulnerability Management|🏆|🟢|
+|12-Dec-22|Cybrary/CYBRScore|Core Impact Vulnerability Scan|🏆|🟢|
+|12-Dec-22|Cybrary/CYBRScore|Creating Recommendation Based on Vulnerability Assessments|🏆|🟢|
+|12-Dec-22|Cybrary/CYBRScore|Manual Vulnerability Assessment|🏆|🟢|
+|12-Dec-22|Cybrary/CYBRScore|Vulnerability Scan Analysis|🏆|🟢|
 |11-Dec-22|Cybrary/CYBRScore|Vulnerability Identification and Remediation|🏆|🟢|
 |11-Dec-22|Cybrary/CYBRScore|Vulnerability Scanner Set-up and Configuration, Pt. 2|🏆|🟢|
 |11-Dec-22|Cybrary/CYBRScore|Vulnerability Scanner Set-up and Configuration|🏆|🟢|
