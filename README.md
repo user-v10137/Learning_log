@@ -10,6 +10,25 @@ This is a log of my recent IT and Cybersecurity learning and development achieve
 |Date|Provider|Course|Type|Status|
 |:----|:----|:----|:----|:----|
 |In Progress|Hack The Box Academy|Pentester Pathway| |🟠|
+|In Progress|Cybrary|Career Path - SOC| |🟠|
+|18-Dec-22|Cybrary/CYBRScore|Host Data Integrity Baselineing|🏆|🟢|
+|18-Dec-22|Cybrary|Malware Threats|🏆|🟢|
+|18-Dec-22|Cybrary/CYBRScore|RootKit|🏆|🟢|
+|18-Dec-22|Cybrary/CYBRScore|Analyze and Classify Malware|🏆|🟢|
+|18-Dec-22|TryHackMe|[Day 17] Secure Coding Filtering for Order Amidst Chaos|Module|🟢|
+|17-Dec-22|Cybrary|Command Line Basics|🏆|🟢|
+|17-Dec-22|Cybrary|How to Use binwalk (BSWJ)|🏆|🟢|
+|17-Dec-22|Cybrary|Linux Attack and Respond Lab|🏆|🟢|
+|17-Dec-22|Cybrary|Incident Response Procedures, Forensics, and Forensic Anlysis Lab|🏆|🟢|
+|17-Dec-22|TryHackMe|[Day 16] Secure Coding SQLi’s the king, the carolers sing|Module|🟢|
+|16-Dec-22|Cybrary|Command Line Basics|🏆|🟢|
+|16-Dec-22|TryHackMe|[Day 15] Secure Coding Santa is looking for a Sidekick|Module|🟢|
+|15-Dec-22|TryHackMe|[Day 14] Web Applications I'm dreaming of secure web apps|Module|🟢|
+|14-Dec-22|TryHackMe|Traffic Analysis Essentials|Room|🟢|
+|14-Dec-22|TryHackMe|[Day 13] Packet Analysis Simply having a wonderful pcap time|Module|🟢|
+|13-Dec-22|Cybrary|Kali Linux Fundamentals|🏆|🟢|
+|13-Dec-22|TryHackMe|[Day 12] Malware Analysis Forensic McBlue to the REVscue!|Module|🟢|
+|12-Dec-22|Cybrary|Career Path: Information Security Fundamentals (Updated)|🏆|🟢|
 |12-Dec-22|Cybrary/ INFOSEC Learning|Patching, Securing Systems, and Configuring Anti-Virus Lab|🏆|🟢|
 |12-Dec-22|TryHackMe|[Day 11] Memory Forensics Not all gifts are nice|Module|🟢|
 |12-Dec-22|Cybrary|Fundamentals of Vulnerability Management|🏆|🟢|
