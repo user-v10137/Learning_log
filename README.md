@@ -4,13 +4,47 @@ This is a log of my recent IT and Cybersecurity learning and development achieve
 
 </br>
 🏅= Digital Badges 	🏆 = Certificate of Completion
- 🟢= Complete 			🟠=In Progress
+<br></br>
+🟢= Complete 			🟠=In Progress
 <br></br>
 
 |Date|Provider|Course|Type|Status|
 |:----|:----|:----|:----|:----|
 |In Progress|Hack The Box Academy|Pentester Pathway| |🟠|
 |In Progress|Cybrary|Career Path - SOC| |🟠|
+|10-Jan-23|Cybrary/ Cydefe|Vulnerability Scan|Practice Assessment|🟢|
+|07-Jan-23|SecurityBlueTeam|Introduction to Dark Web Operations|🏆|🟢|
+|07-Jan-23|SecurityBlueTeam|Blue Team Junior Analyst|🏆|🟢|
+|06-Jan-23|SecurityBlueTeam|Introduction to Threat Hunting|🏆|🟢|
+|05-Jan-23|SecurityBlueTeam|Introduction to OSINT|🏆|🟢|
+|03-Jan-23|SecurityBlueTeam|Introduction to Digital Forensics|🏆|🟢|
+|03-Jan-23|TryHackMe|Intro to Containerisation|Room|🟢|
+|02-Jan-23|TryHackMe|Sysinternals|Room|🟢|
+|02-Jan-23|Cybrary|OSINT Top 10 - 2021|🏆|🟢|
+|01-Jan-23|TryHackMe|Core Windows Processes|Room|🟢|
+|01-Jan-23|Cybrary/ Practice Labs|Implementing Scanning Techniques|Lab|🟢|
+|01-Jan-23|Cybrary/ Practice Labs|OS Fingerprinting|Lab|🟢|
+|01-Jan-23|Cybrary/ Practice Labs|Banner Grabbing|Lab|🟢|
+|01-Jan-23|Cybrary/ Practice Labs|Using Enumeration Tools|Lab|🟢|
+|31-Dec-22|TryHackMe|Wireshark 101|Room|🟢|
+|30-Dec-22|TryHackMe|DFIR: An Introduction|🏆|🟢|
+|29-Dec-22|TryHackMe|Intro to SIEM|Room|🟢|
+|29-Dec-22|SecurityBlueTeam|Introduction to Network Analysis|🏆|🟢|
+|29-Dec-22|Cybrary|Performing a Check for Live Systems|LAB|🟢|
+|29-Dec-22|Cybrary|Performing a Check for Open Ports|LAB|🟢|
+|28-Dec-22|TryHackMe|Intro to Endpoint Security|Room|🟢|
+|28-Dec-22|SecurityBlueTeam|Introduction to Vulnerability Management|🏆|🟢|
+|25-Dec-22|TryHackMe|Advent of Cyber 2022|🏆|🟢|
+|24-Dec-22|TryHackMe|[Day 23] Defence in Depth Mission ELFPossible: Abominable for a Day|Module|🟢|
+|23-Dec-22|TryHackMe|[Day 22] Attack Surface Reduction Threats are failing all around me|Module|🟢|
+|22-Dec-22|TryHackMe|[Day 21] MQTT Have yourself a merry little webcam|Module|🟢|
+|22-Dec-22|Cybrary|Post Exploitation Hacking|🏆|🟢|
+|21-Dec-22|TryHackMe|[Day 20] Firmware Binwalkin’ around the Christmas tree|Module|🟢|
+|21-Dec-22|Cybrary|Weekly Challenge: Chatting with ChatGPT|🏆|🟢|
+|20-Dec-22|TryHackMe|[Day 19] Hardware Hacking Wiggles go brrr|Module|🟢|
+|19-Dec-22|TryHackMe|[Day 18] Sigma Lumberjack Lenny Learns New Rules|Module|🟢|
+|19-Dec-22|Cybrary|Cybersecurity Kill Chain™|🏆|🟢|
+|19-Dec-22|Cybrary|OWASP Top 10 - 2021|🏆|🟢|
 |18-Dec-22|Cybrary/CYBRScore|Host Data Integrity Baselineing|🏆|🟢|
 |18-Dec-22|Cybrary|Malware Threats|🏆|🟢|
 |18-Dec-22|Cybrary/CYBRScore|RootKit|🏆|🟢|
