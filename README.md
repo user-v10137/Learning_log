@@ -12,6 +12,31 @@ This is a log of my recent IT and Cybersecurity learning and development achieve
 |:----|:----|:----|:----|:----|
 |In Progress|Hack The Box Academy|Pentester Pathway| |🟠|
 |In Progress|Cybrary|Career Path - SOC| |🟠|
+|18-Jan-23|Cybrary/ CYBRScore|Event Log Collection|Lab|🟢|
+|18-Jan-23|Cybrary/ CYBRScore|Log Correlation|Lab|🟢|
+|18-Jan-23|Cybrary/ CYBRScore|Log Correlation & Analysis to Identify Potential IOC|Lab|🟢|
+|17-Jan-23|Cybrary|Introduction to Splunk|🏆|🟢|
+|17-Jan-23|Cybrary/ INFOSEC Learning|Log Analysis in Linux and Splunk|Lab|🟢|
+|17-Jan-23|Cybrary/ CYBRScore|Log Event Reports|Lab|🟢|
+|16-Jan-23|Cybrary/ Practice Labs|Analyzing Protocols|Lab|🟢|
+|16-Jan-23|Cybrary/ Practice Labs|Packet Sniffing with Wireshark|Lab|🟢|
+|16-Jan-23|Cybrary/ CYDEFE|Sniffing: Wireshark, TCP Dump|Assessement|🟢|
+|16-Jan-23|Cybrary|Sniffing|🏆|🟢|
+|16-Jan-23|Cybrary/ INFOSEC Learning|Deep Dive in Packet Analysis - Using Wireshark and Network Miner Lab|Lab|🟢|
+|16-Jan-23|Cybrary/ Skillable Lab|Use Wireshark to Intercept Network Traffic|Lab|🟢|
+|16-Jan-23|Cybrary/ Skillable Lab|Identify Non-Secure Network Traffic|Lab|🟢|
+|16-Jan-23|Cybrary/ CYBRScore|Parse Files Out of Network Traffic|Lab|🟢|
+|15-Jan-23|Cybrary/ Practice Labs|Analyzing Captured traffic|Lab|🟢|
+|14-Jan-23|Cybrary/ Practice Labs|Customizing Wireshark|Lab|🟢|
+|14-Jan-23|Cybrary/ Practice Labs|Working with Capture Traffic|Lab|🟢|
+|13-Jan-23|Cybrary/ CYBRScore|Wireshark|Lab|🟢|
+|13-Jan-23|Cybrary/ CYBRScore|Packet Sniffing|Lab|🟢|
+|13-Jan-23|Cybrary/ Practice Labs|Packet Sniffing|Lab|🟢|
+|13-Jan-23|Cybrary/ CYBRScore|Applying Filters to TCPDump and Wireshark|Lab|🟢|
+|13-Jan-23|Cybrary/ CYBRScore|TCPDump|Lab|🟢|
+|13-Jan-23|Cybrary/ Practice Labs|Understand Common Ports and Protocols|Lab|🟢|
+|13-Jan-23|Cybrary/ Practice Labs|Installing Wireshark|Lab|🟢|
+|13-Jan-23|Cybrary/ Practice Labs|Wireshark Functionality|Lab|🟢|
 |10-Jan-23|Cybrary/ Cydefe|Vulnerability Scan|Practice Assessment|🟢|
 |07-Jan-23|SecurityBlueTeam|Introduction to Dark Web Operations|🏆|🟢|
 |07-Jan-23|SecurityBlueTeam|Blue Team Junior Analyst|🏆|🟢|
