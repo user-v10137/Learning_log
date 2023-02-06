@@ -1,17 +1,16 @@
 ## What is my Leaning Log?
 
 This is a log of my recent IT and Cybersecurity learning and development achievements/ courses completed.
-
-</br>
-🏅= Digital Badges/ Certification 	🏆 = Certificate of Completion  🧪 = Lab  🕵️ = Investigation 
 <br></br>
-🟢= Complete 			🟠=In Progress
+🟢=Complete 			🟠=In Progress
+</br>
+🏅=Digital Badges/ Certification 	🏆=Certificate of Completion  🧪=Lab  🕵️=Investigation 
 <br></br>
 <i>Last Update: 06 February 2023</i>
 
 |Date|Provider|Course|Type|Status|
 |:----|:----|:----|:----|:----|
-|In Progress|Cybrary|Career Path - Incident Response|🏆|🟠|
+|In Progress|Cybrary|Career Path - Incident Handler|🏆|🟠|
 |In Progress|TCM-Sec|Practical Malware & Triage Analysis|🏆|🟠|
 |In Progress|Mossé Cyber Security Institute|MOIS - Certified OSINT Expert|🏅|🟠|
 |06-Feb-23|Blue Team Labs Online|Investigation - Deep Blue|🕵️|🟢|
