@@ -3,40 +3,59 @@
 This is a log of my recent IT and Cybersecurity learning and development achievements/ courses completed.
 
 </br>
-🏅= Digital Badges 	🏆 = Certificate of Completion
+🏅= Digital Badges/ Certification 	🏆 = Certificate of Completion  🧪 = Lab  🕵️ = Investigation 
 <br></br>
 🟢= Complete 			🟠=In Progress
 <br></br>
+<i>Last Update: 06 February 2023</i>
 
 |Date|Provider|Course|Type|Status|
 |:----|:----|:----|:----|:----|
-|In Progress|Hack The Box Academy|Pentester Pathway| |🟠|
-|In Progress|Cybrary|Career Path - SOC| |🟠|
-|18-Jan-23|Cybrary/ CYBRScore|Event Log Collection|Lab|🟢|
-|18-Jan-23|Cybrary/ CYBRScore|Log Correlation|Lab|🟢|
-|18-Jan-23|Cybrary/ CYBRScore|Log Correlation & Analysis to Identify Potential IOC|Lab|🟢|
+|In Progress|Cybrary|Career Path - Incident Response| |🟠|
+|06-Feb-23|Blue Team Labs Online|Investigation - Deep Blue|🕵️|🟢|
+|06-Feb-23|Blue Team Labs Online|Challenge - ATT&CK|Challenge|🟢|
+|06-Feb-23|Blue Team Labs Online|Challenge - D3FEND|Challenge|🟢|
+|04-Feb-23|Cybrary|CompTIA Security + (SY0-601)|🏆|🟢|
+|04-Feb-23|Cybrary|SOC1 Career Path|🏅|🟢|
+|03-Feb-23|MITRE Engenuity|ATT&CK Cyber Threat Intelligence Defensive Recommendations|🏅|🟢|
+|03-Feb-23|MITRE Engenuity|ATT&CK® Cyber Threat Intelligence Certification|🏅|🟢|
+|01-Feb-23|MITRE Engenuity|ATT&CK Cyber Threat Intelligence Storage and Analysis|🏅|🟢|
+|01-Feb-23|Cybrary|MITRE ATT&CK Defender™ (MAD) ATT&CK® Cyber Threat Intelligence Certification Training|🏆|🟢|
+|31-Jan-23|MITRE Engenuity|ATT&CK Cyber Threat Intelligence from Narrative Reporting|🏅|🟢|
+|31-Jan-23|MITRE Engenuity|ATT&CK Cyber Threat Intelligence from Raw Data|🏅|🟢|
+|24-Jan-23|Cybrary|Intro to PowerShell Scripting|🏆|🟢|
+|24-Jan-23|Cybrary|Using PowerShell to Analyze a System|🧪|🟢|
+|24-Jan-23|Cybrary/ Cydefe|Vulnerability Scan|Assessement|🟢|
+|23-Jan-23|Cybrary|Intro to Python|🏆|🟢|
+|19-Jan-23|Cybrary|Identify Web Attacks Through Logs|🏆|🟢|
+|19-Jan-23|Cybrary/ INFOSEC Learning|Log Analysis Lab|🧪|🟢|
+|19-Jan-23|Cybrary/ CYBRScore|Centralized Monitoring|🧪|🟢|
+|19-Jan-23|Cybrary/ CYBRScore|Creating SIEM Reports with Splunk|🧪|🟢|
+|18-Jan-23|Cybrary/ CYBRScore|Event Log Collection|🧪|🟢|
+|18-Jan-23|Cybrary/ CYBRScore|Log Correlation|🧪|🟢|
+|18-Jan-23|Cybrary/ CYBRScore|Log Correlation & Analysis to Identify Potential IOC|🧪|🟢|
 |17-Jan-23|Cybrary|Introduction to Splunk|🏆|🟢|
-|17-Jan-23|Cybrary/ INFOSEC Learning|Log Analysis in Linux and Splunk|Lab|🟢|
-|17-Jan-23|Cybrary/ CYBRScore|Log Event Reports|Lab|🟢|
-|16-Jan-23|Cybrary/ Practice Labs|Analyzing Protocols|Lab|🟢|
-|16-Jan-23|Cybrary/ Practice Labs|Packet Sniffing with Wireshark|Lab|🟢|
+|17-Jan-23|Cybrary/ INFOSEC Learning|Log Analysis in Linux and Splunk|🧪|🟢|
+|17-Jan-23|Cybrary/ CYBRScore|Log Event Reports|🧪|🟢|
+|16-Jan-23|Cybrary/ Practice Labs|Analyzing Protocols|🧪|🟢|
+|16-Jan-23|Cybrary/ Practice Labs|Packet Sniffing with Wireshark|🧪|🟢|
 |16-Jan-23|Cybrary/ CYDEFE|Sniffing: Wireshark, TCP Dump|Assessement|🟢|
 |16-Jan-23|Cybrary|Sniffing|🏆|🟢|
-|16-Jan-23|Cybrary/ INFOSEC Learning|Deep Dive in Packet Analysis - Using Wireshark and Network Miner Lab|Lab|🟢|
-|16-Jan-23|Cybrary/ Skillable Lab|Use Wireshark to Intercept Network Traffic|Lab|🟢|
-|16-Jan-23|Cybrary/ Skillable Lab|Identify Non-Secure Network Traffic|Lab|🟢|
-|16-Jan-23|Cybrary/ CYBRScore|Parse Files Out of Network Traffic|Lab|🟢|
-|15-Jan-23|Cybrary/ Practice Labs|Analyzing Captured traffic|Lab|🟢|
-|14-Jan-23|Cybrary/ Practice Labs|Customizing Wireshark|Lab|🟢|
-|14-Jan-23|Cybrary/ Practice Labs|Working with Capture Traffic|Lab|🟢|
-|13-Jan-23|Cybrary/ CYBRScore|Wireshark|Lab|🟢|
-|13-Jan-23|Cybrary/ CYBRScore|Packet Sniffing|Lab|🟢|
-|13-Jan-23|Cybrary/ Practice Labs|Packet Sniffing|Lab|🟢|
-|13-Jan-23|Cybrary/ CYBRScore|Applying Filters to TCPDump and Wireshark|Lab|🟢|
-|13-Jan-23|Cybrary/ CYBRScore|TCPDump|Lab|🟢|
-|13-Jan-23|Cybrary/ Practice Labs|Understand Common Ports and Protocols|Lab|🟢|
-|13-Jan-23|Cybrary/ Practice Labs|Installing Wireshark|Lab|🟢|
-|13-Jan-23|Cybrary/ Practice Labs|Wireshark Functionality|Lab|🟢|
+|16-Jan-23|Cybrary/ INFOSEC Learning|Deep Dive in Packet Analysis - Using Wireshark and Network Miner Lab|🧪|🟢|
+|16-Jan-23|Cybrary/ Skillable Lab|Use Wireshark to Intercept Network Traffic|🧪|🟢|
+|16-Jan-23|Cybrary/ Skillable Lab|Identify Non-Secure Network Traffic|🧪|🟢|
+|16-Jan-23|Cybrary/ CYBRScore|Parse Files Out of Network Traffic|🧪|🟢|
+|15-Jan-23|Cybrary/ Practice Labs|Analyzing Captured traffic|🧪|🟢|
+|14-Jan-23|Cybrary/ Practice Labs|Customizing Wireshark|🧪|🟢|
+|14-Jan-23|Cybrary/ Practice Labs|Working with Capture Traffic|🧪|🟢|
+|13-Jan-23|Cybrary/ CYBRScore|Wireshark|🧪|🟢|
+|13-Jan-23|Cybrary/ CYBRScore|Packet Sniffing|🧪|🟢|
+|13-Jan-23|Cybrary/ Practice Labs|Packet Sniffing|🧪|🟢|
+|13-Jan-23|Cybrary/ CYBRScore|Applying Filters to TCPDump and Wireshark|🧪|🟢|
+|13-Jan-23|Cybrary/ CYBRScore|TCPDump|🧪|🟢|
+|13-Jan-23|Cybrary/ Practice Labs|Understand Common Ports and Protocols|🧪|🟢|
+|13-Jan-23|Cybrary/ Practice Labs|Installing Wireshark|🧪|🟢|
+|13-Jan-23|Cybrary/ Practice Labs|Wireshark Functionality|🧪|🟢|
 |10-Jan-23|Cybrary/ Cydefe|Vulnerability Scan|Practice Assessment|🟢|
 |07-Jan-23|SecurityBlueTeam|Introduction to Dark Web Operations|🏆|🟢|
 |07-Jan-23|SecurityBlueTeam|Blue Team Junior Analyst|🏆|🟢|
@@ -47,16 +66,16 @@ This is a log of my recent IT and Cybersecurity learning and development achieve
 |02-Jan-23|TryHackMe|Sysinternals|Room|🟢|
 |02-Jan-23|Cybrary|OSINT Top 10 - 2021|🏆|🟢|
 |01-Jan-23|TryHackMe|Core Windows Processes|Room|🟢|
-|01-Jan-23|Cybrary/ Practice Labs|Implementing Scanning Techniques|Lab|🟢|
-|01-Jan-23|Cybrary/ Practice Labs|OS Fingerprinting|Lab|🟢|
-|01-Jan-23|Cybrary/ Practice Labs|Banner Grabbing|Lab|🟢|
-|01-Jan-23|Cybrary/ Practice Labs|Using Enumeration Tools|Lab|🟢|
+|01-Jan-23|Cybrary/ Practice Labs|Implementing Scanning Techniques|🧪|🟢|
+|01-Jan-23|Cybrary/ Practice Labs|OS Fingerprinting|🧪|🟢|
+|01-Jan-23|Cybrary/ Practice Labs|Banner Grabbing|🧪|🟢|
+|01-Jan-23|Cybrary/ Practice Labs|Using Enumeration Tools|🧪|🟢|
 |31-Dec-22|TryHackMe|Wireshark 101|Room|🟢|
 |30-Dec-22|TryHackMe|DFIR: An Introduction|🏆|🟢|
 |29-Dec-22|TryHackMe|Intro to SIEM|Room|🟢|
 |29-Dec-22|SecurityBlueTeam|Introduction to Network Analysis|🏆|🟢|
-|29-Dec-22|Cybrary|Performing a Check for Live Systems|LAB|🟢|
-|29-Dec-22|Cybrary|Performing a Check for Open Ports|LAB|🟢|
+|29-Dec-22|Cybrary|Performing a Check for Live Systems|🧪|🟢|
+|29-Dec-22|Cybrary|Performing a Check for Open Ports|🧪|🟢|
 |28-Dec-22|TryHackMe|Intro to Endpoint Security|Room|🟢|
 |28-Dec-22|SecurityBlueTeam|Introduction to Vulnerability Management|🏆|🟢|
 |25-Dec-22|TryHackMe|Advent of Cyber 2022|🏆|🟢|
