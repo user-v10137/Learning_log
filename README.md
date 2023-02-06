@@ -11,7 +11,9 @@ This is a log of my recent IT and Cybersecurity learning and development achieve
 
 |Date|Provider|Course|Type|Status|
 |:----|:----|:----|:----|:----|
-|In Progress|Cybrary|Career Path - Incident Response| |🟠|
+|In Progress|Cybrary|Career Path - Incident Response|🏆|🟠|
+|In Progress|TCM-Sec|Practical Malware & Triage Analysis|🏆|🟠|
+|In Progress|Mossé Cyber Security Institute|MOIS - Certified OSINT Expert|🏅|🟠|
 |06-Feb-23|Blue Team Labs Online|Investigation - Deep Blue|🕵️|🟢|
 |06-Feb-23|Blue Team Labs Online|Challenge - ATT&CK|Challenge|🟢|
 |06-Feb-23|Blue Team Labs Online|Challenge - D3FEND|Challenge|🟢|
