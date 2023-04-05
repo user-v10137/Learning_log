@@ -11,8 +11,29 @@ This is a log of my recent IT and Cybersecurity learning and development achieve
 |Date|Provider|Course|Type|Status|
 |:----|:----|:----|:----|:----|
 |In Progress|Cybrary|Career Path - Incident Handler|🏆|🟠|
+|In Progress|TCM-Sec|GRC Analyst Master Class|🏆|🟠|
 |In Progress|TCM-Sec|Practical Malware & Triage Analysis|🏆|🟠|
+|In Progress|Thirteen3|Investigating Windows Endpoints |🏆/🏅|🟠|
 |In Progress|Mossé Cyber Security Institute|MOIS - Certified OSINT Expert|🏅|🟠|
+| 05-Apr-23 | Cybrary/ INFOSEC Learning | Forensic Analysis of Windows Server | 🧪 | 🟢 |
+| 04-Apr-23 | Cybrary/ INFOSEC Learning | Forensic Analysis of a Windows 10 Client Lab | 🧪 | 🟢 |
+| 03-Apr-23 | Cybrary/ INFOSEC Learning | Forensic Analysis of a Linux System Lab | 🧪 | 🟢 |
+| 26-Mar-23 | Cybrary/ CYBRScore | Performing Incident Response in a Windows Environment | 🧪 | 🟢 |
+| 24-Mar-23 | Cybrary/ INFOSEC Learning | Common Locations of Windows Artifacts Lab | 🧪 | 🟢 |
+| 23-Mar-23 | Cybrary/ INFOSEC Learning | Finding Malicious Indicators Lab | 🧪 | 🟢 |
+| 21-Mar-23 | Cybrary/ INFOSEC Learning | Using Hash Functions to Validate Data Integrity | 🧪 | 🟢 |
+| 18-Mar-23 | Cybrary/ CYBRScore | Performing an Initial Attack Analysis | 🧪 | 🟢 |
+| 18-Mar-23 | Cybrary/ INFOSEC Learning | The Imaging Process Lab | 🧪 | 🟢 |
+| 16-Mar-23 | Cybrary | Analyzing Attacks for Incident Handlers | 🏆 | 🟢 |
+| 14-Mar-23 | Cybrary | DFIR Investigations and Witness Testimony | 🏆 | 🟢 |
+| 09-Mar-23 | Cybrary | Incident Response Recovery | 🏆 | 🟢 |
+| 27-Feb-23 | Cybrary | Incident Response Planning | 🧪 | 🟢 |
+| 27-Feb-23 | LetsDefend |  | 🧪 | 🟢 |
+| 27-Feb-23 | Blue Team Labs Online | Follina | 🧪 | 🟢 |
+| 27-Feb-23 | Cybrary | Implementing an incident Response Plan | 🏆 | 🟢 |
+| 25-Feb-23 | LetsDefend | SOC | 🧪 | 🟢 |
+| 20-Feb-23 | Cybrary | Incident Response Steps | 🏆 | 🟢 |
+| 13-Feb-23 | Cybrary | Application of the MITRE ATT&CK Framework | 🏆 | 🟢 |
 |06-Feb-23|Blue Team Labs Online|Investigation - Deep Blue|🕵️|🟢|
 |06-Feb-23|Blue Team Labs Online|Challenge - ATT&CK|Challenge|🟢|
 |06-Feb-23|Blue Team Labs Online|Challenge - D3FEND|Challenge|🟢|
