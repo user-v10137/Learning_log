@@ -6,7 +6,7 @@ This is a log of my recent IT and Cybersecurity learning and development achieve
 </br>
 🏅=Digital Badges/ Certification 	🏆=Certificate of Completion  🧪=Lab  🕵️=Investigation 
 <br></br>
-<i>Last Update: 06 February 2023</i>
+<i>Last Update: 06 April 2023</i>
 
 |Date|Provider|Course|Type|Status|
 |:----|:----|:----|:----|:----|
@@ -15,6 +15,7 @@ This is a log of my recent IT and Cybersecurity learning and development achieve
 |In Progress|TCM-Sec|Practical Malware & Triage Analysis|🏆|🟠|
 |In Progress|Thirteen3|Investigating Windows Endpoints |🏆/🏅|🟠|
 |In Progress|Mossé Cyber Security Institute|MOIS - Certified OSINT Expert|🏅|🟠|
+| 06-Apr-23 | Cybrary/ INFOSEC Learning | Memory Analysis Lab | 🧪 | 🟢 |
 | 05-Apr-23 | Cybrary/ INFOSEC Learning | Forensic Analysis of Windows Server | 🧪 | 🟢 |
 | 04-Apr-23 | Cybrary/ INFOSEC Learning | Forensic Analysis of a Windows 10 Client Lab | 🧪 | 🟢 |
 | 03-Apr-23 | Cybrary/ INFOSEC Learning | Forensic Analysis of a Linux System Lab | 🧪 | 🟢 |
