@@ -10,11 +10,38 @@ This is a log of my recent IT and Cybersecurity learning and development achieve
 
 |Date|Provider|Course|Type|Status|
 |:----|:----|:----|:----|:----|
-|In Progress|Cybrary|Career Path - Incident Handler|🏆|🟠|
-|In Progress|TCM-Sec|GRC Analyst Master Class|🏆|🟠|
+|In Progress|OCEG|GRCP|🏆/🏅|🟠|
 |In Progress|TCM-Sec|Practical Malware & Triage Analysis|🏆|🟠|
 |In Progress|Thirteen3|Investigating Windows Endpoints |🏆/🏅|🟠|
 |In Progress|Mossé Cyber Security Institute|MOIS - Certified OSINT Expert|🏅|🟠|
+| 14-Jun-23 | TryHackMe | Metasploit: Meterpreter | Module | 🟢 |
+| 09-Jun-23 | TryHackMe | Metasploit: Exploitation | Module | 🟢 |
+| 07-Jun-23 | TryHackMe | Metaspolit: Introduction | Module | 🟢 |
+| 06-Jun-23 | TryHackMe | Active Directory Basics | Module | 🟢 |
+| 05-Jun-23 | TryHackMe | Encryption - Crypto 101 | Module | 🟢 |
+| 04-Jun-23 | TryHackMe | John The Ripper | Module | 🟢 |
+| 03-Jun-23 | TryHackMe | Hashing - Crypto 101 | Module | 🟢 |
+| 02-Jun-23 | TryHackMe | Upload Vulnerabilities | Module | 🟢 |
+| 31-May-23 | TryHackMe | What the Shell | Module | 🟢 |
+| 29-May-23 | TryHackMe | Easy Peasy | Module | 🟢 |
+| 25-May-23 | TryHackMe | Web Enumeration | Module | 🟢 |
+| 14-May-23 | TryHackMe | OWASP Top 10 | Module | 🟢 |
+| 12-May-23 | TryHackMe | Intro to Malware Analysis | Module | 🟢 |
+| 08-May-23 | TCM Security | The Definitive GRC Analyst Master Class | 🏆 | 🟢 |
+| 14-Apr-23 | Cybrary/ INFOSEC Learning | Introduction to Single Purpose Forensic Tools Lab | 🧪 | 🟢 |
+| 14-Apr-23 | Cybrary/ CYBRScore | Participate in Attack Analysis Using Trusted Tool Set | 🧪 | 🟢 |
+| 14-Apr-23 | Cybrary | Become an Incident Handler | 🏆 | 🟢 |
+| 13-Apr-23 | Cybrary/ INFOSEC Learning | Browser Artifact Analysis Lab | 🧪 | 🟢 |
+| 12-Apr-23 | Cybrary/ CYBRScore | WebApp Attack PCAP Analysis | 🧪 | 🟢 |
+| 11-Apr-23 | Cybrary/ CYBRScore | Open Source Collection | 🧪 | 🟢 |
+| 11-Apr-23 | Cybrary/ CYBRScore | Preliminary Scanning | 🧪 | 🟢 |
+| 11-Apr-23 | Cybrary/ CYBRScore | Additional Scanning Options | 🧪 | 🟢 |
+| 11-Apr-23 | Cybrary | Evasion for Incident Handlers | 🏆 | 🟢 |
+| 11-Apr-23 | Cybrary | Stealth Techniques for Incident Handlers | 🏆 | 🟢 |
+| 10-Apr-23 | Cybrary | Online Reconnaissance | 🏆 | 🟢 |
+| 10-Apr-23 | Cybrary | Social Media LAB | 🧪 | 🟢 |
+| 10-Apr-23 | Cybrary | Scanning and Enumeration with NMAP | 🏆 | 🟢 |
+| 09-Apr-23 | Cybrary/ INFOSEC Learning | Static and Dynamic Malware Analysis Lab | 🧪 | 🟢 |
 | 06-Apr-23 | Cybrary/ INFOSEC Learning | Memory Analysis Lab | 🧪 | 🟢 |
 | 05-Apr-23 | Cybrary/ INFOSEC Learning | Forensic Analysis of Windows Server | 🧪 | 🟢 |
 | 04-Apr-23 | Cybrary/ INFOSEC Learning | Forensic Analysis of a Windows 10 Client Lab | 🧪 | 🟢 |
