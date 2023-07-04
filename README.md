@@ -6,7 +6,7 @@ This is a log of my recent IT and Cybersecurity learning and development achieve
 </br>
 🏅=Digital Badges/ Certification 	🏆=Certificate of Completion  🧪=Lab  🕵️=Investigation 
 <br></br>
-<i>Last Update: 06 April 2023</i>
+<i>Last Update: 04 July 2023</i>
 
 |Date|Provider|Course|Type|Status|
 |:----|:----|:----|:----|:----|
@@ -14,19 +14,37 @@ This is a log of my recent IT and Cybersecurity learning and development achieve
 |In Progress|TCM-Sec|Practical Malware & Triage Analysis|🏆|🟠|
 |In Progress|Thirteen3|Investigating Windows Endpoints |🏆/🏅|🟠|
 |In Progress|Mossé Cyber Security Institute|MOIS - Certified OSINT Expert|🏅|🟠|
-| 14-Jun-23 | TryHackMe | Metasploit: Meterpreter | Module | 🟢 |
-| 09-Jun-23 | TryHackMe | Metasploit: Exploitation | Module | 🟢 |
-| 07-Jun-23 | TryHackMe | Metaspolit: Introduction | Module | 🟢 |
-| 06-Jun-23 | TryHackMe | Active Directory Basics | Module | 🟢 |
-| 05-Jun-23 | TryHackMe | Encryption - Crypto 101 | Module | 🟢 |
-| 04-Jun-23 | TryHackMe | John The Ripper | Module | 🟢 |
-| 03-Jun-23 | TryHackMe | Hashing - Crypto 101 | Module | 🟢 |
-| 02-Jun-23 | TryHackMe | Upload Vulnerabilities | Module | 🟢 |
-| 31-May-23 | TryHackMe | What the Shell | Module | 🟢 |
-| 29-May-23 | TryHackMe | Easy Peasy | Module | 🟢 |
-| 25-May-23 | TryHackMe | Web Enumeration | Module | 🟢 |
-| 14-May-23 | TryHackMe | OWASP Top 10 | Module | 🟢 |
-| 12-May-23 | TryHackMe | Intro to Malware Analysis | Module | 🟢 |
+| 04-Jul-23 | TryHackMe | Traffic Analysis | Room | 🟢 |
+| 02-Jul-23 | TryHackMe | Post-Exploitation Basic | Room | 🟢 |
+| 02-Jul-23 | TryHackMe | Learning Path: CompTIA Pentest+ | 🏆 | 🟢 |
+| 30-Jun-23 | TryHackMe | Attacking Kerberos | Room | 🟢 |
+| 30-Jun-23 | TryHackMe | Governance & Regulation | Room | 🟢 |
+| 29-Jun-23 | TryHackMe | Attacktive Directory | Room | 🟢 |
+| 29-Jun-23 | TryHackMe | Principles of Security | Room | 🟢 |
+| 28-Jun-23 | TryHackMe | Nesssus | Room | 🟢 |
+| 28-Jun-23 | TryHackMe | Hydra | Room | 🟢 |
+| 27-Jun-23 | TryHackMe | Steel Mountain | Room | 🟢 |
+| 27-Jun-23 | TryHackMe | Learning Path: Complete Beginner | 🏆 | 🟢 |
+| 23-Jun-23 | TryHackMe | Kenobi | Room | 🟢 |
+| 22-Jun-23 | TryHackMe | Basic Pentesting | Room | 🟢 |
+| 21-Jun-23 | TryHackMe | Vulnversity | Room | 🟢 |
+| 20-Jun-23 | TryHackMe | Linux PrivEsc | Room | 🟢 |
+| 19-Jun-23 | TryHackMe | Common Linux Privesc | Room | 🟢 |
+| 16-Jun-23 | TryHackMe | What the Shell | Room | 🟢 |
+| 15-Jun-23 | TryHackMe | Blue | Room | 🟢 |
+| 14-Jun-23 | TryHackMe | Metasploit: Meterpreter | Room | 🟢 |
+| 09-Jun-23 | TryHackMe | Metasploit: Exploitation | Room | 🟢 |
+| 07-Jun-23 | TryHackMe | Metaspolit: Introduction | Room | 🟢 |
+| 06-Jun-23 | TryHackMe | Active Directory Basics | Room | 🟢 |
+| 05-Jun-23 | TryHackMe | Encryption - Crypto 101 | Room | 🟢 |
+| 04-Jun-23 | TryHackMe | John The Ripper | Room | 🟢 |
+| 03-Jun-23 | TryHackMe | Hashing - Crypto 101 | Room | 🟢 |
+| 02-Jun-23 | TryHackMe | Upload Vulnerabilities | Room | 🟢 |
+| 31-May-23 | TryHackMe | What the Shell | Room | 🟢 |
+| 29-May-23 | TryHackMe | Easy Peasy | Room | 🟢 |
+| 25-May-23 | TryHackMe | Web Enumeration | Room | 🟢 |
+| 14-May-23 | TryHackMe | OWASP Top 10 | Room | 🟢 |
+| 12-May-23 | TryHackMe | Intro to Malware Analysis | Room | 🟢 |
 | 08-May-23 | TCM Security | The Definitive GRC Analyst Master Class | 🏆 | 🟢 |
 | 14-Apr-23 | Cybrary/ INFOSEC Learning | Introduction to Single Purpose Forensic Tools Lab | 🧪 | 🟢 |
 | 14-Apr-23 | Cybrary/ CYBRScore | Participate in Attack Analysis Using Trusted Tool Set | 🧪 | 🟢 |
